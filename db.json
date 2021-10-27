@@ -1,0 +1,29 @@
+{
+    "recipes": 
+    [
+        {
+            "name": "Chicken nuggets",
+            "author": "Sebastian",
+            "description": "Learn how to make delicious and crispy chicken nuggets",
+            "ingredients": ["chicken breasts", "white flour", "eggs", "salt", "olive oil","breadcrumbs", "milk"],
+            "instructions": [
+                             "Place the chicken chunks into a large zip-top bag. Pour the pickle juice, milk, and hot sauce into the bag and seal. Massage the mixture together and refrigerate for at least 4 hours, or overnight.",
+                             "Turn your oven onto warm and set aside a large baking sheet.",
+                             "Using a slotted spoon, remove the chicken nuggets from the oil and place onto the baking sheet. Place the baking sheet in the oven to keep the nuggets warm while you fry the remaining chicken."  
+                            ],
+            "notes": "Don’t transfer the chicken onto a paper towel to absorb oil. This creates soggy bottomed nuggets. Just drain the oil using a slotted spoon. Store airtight in the refrigerator for up to 3 days."
+        },
+        {
+            "name": "Pasta with olive oil and garlic",
+            "author": "Diana",
+            "description": "This pasta recipe is a simple Italian classic you'll find in trattorias all across Italy",
+            "ingredients": ["1/2 cup extra virgin olive oil", "10 sliced garlic cloves", "1 tbsp red chilli flakes", "1/4 cup chopped parsley"],
+            "instructions": [
+                                "Cook 1lb/500g of dried spaghetti (or any other long dried pasta) in a large pot of salted boiling water per packet minus 1 minute.",
+                                "Add pasta into chosen sauce with 3/4 cup pasta cooking water. Toss pasta until sauce thickens and sticks to pasta, 1 - 2 minutes. Use more pasta water if needed to loosen sauce.",
+                                "Season with salt and pepper to taste. Finish pasta per chosen recipe."
+                            ],
+            "notes": "Canned tomatoes - not all canned tomatoes are created equal. Good quality ones are naturally sweet with better tomato flavour, poor quality ones are sour and often unripe tomatoes. If needed, add sugar to sweeten tomatoes."
+        }
+    ]
+}
