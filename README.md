@@ -5,7 +5,7 @@
 
 ## Quick Guide
 
-- Go to https://recipes-api-project.herokuapp.com/recipes, to check all the current recipes, as well as their due JSON format. 
+- Go to https://recipes-api-project.herokuapp.com/recipes to check all the current recipes, as well as their due JSON format. 
 - You can make any type of requests to that URL (GET, POST, PUT, DELETE).
 - If you want to add a new recipe, make sure to follow the same JSON format of the other recipes.
 - See [json-server documentation](https://github.com/typicode/json-server#getting-started) for more information about how to make requests.
