@@ -6,8 +6,7 @@
 ## Quick Guide
 
 - Go to https://recipes-api-project.herokuapp.com/recipes to check all the current recipes, as well as their due JSON format. 
-- You can make any type of requests to that URL (GET, POST, PUT, DELETE).
-- See [json-server documentation](https://github.com/typicode/json-server#getting-started) for more information about how to make requests.
+- You can make any type of requests to that URL (GET, POST, PUT, DELETE). See [json-server documentation](https://github.com/typicode/json-server#getting-started)   for more information about how to make requests.
 
 ## Version
 
