@@ -5,6 +5,7 @@
             "id":    "ggYQp24",
             "title": "Chicken nuggets",
             "author": "Sebastian",
+            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/test-image.jpeg",
             "description": "Learn how to make delicious and crispy chicken nuggets",
             "ingredients": ["chicken breasts", "white flour", "eggs", "salt", "olive oil","breadcrumbs", "milk"],
             "instructions": [
@@ -18,6 +19,7 @@
             "id":    "T3rpo81",
             "title": "Pasta with olive oil and garlic",
             "author": "Diana",
+            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/test-image.jpeg",
             "description": "This pasta recipe is a simple Italian classic you'll find in trattorias all across Italy",
             "ingredients": ["1/2 cup extra virgin olive oil", "10 sliced garlic cloves", "1 tbsp red chilli flakes", "1/4 cup chopped parsley"],
             "instructions": [
