@@ -5,9 +5,9 @@
             "id":    "ggYQp24",
             "title": "Chicken nuggets",
             "author": "Sebastian",
-            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/test-image.jpeg",
+            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/nuggets.jpeg",
             "description": "Learn how to make delicious and crispy chicken nuggets",
-            "ingredients": ["chicken breasts", "white flour", "eggs", "salt", "olive oil","breadcrumbs", "milk"],
+            "ingredients": ["3 chicken breasts", "1 cup white flour", "3 eggs", "1 tsp salt", "1/4 cup olive oil", "1 cup breadcrumbs", "milk"],
             "instructions": [
                              "Place the chicken chunks into a large zip-top bag. Pour the pickle juice, milk, and hot sauce into the bag and seal. Massage the mixture together and refrigerate for at least 4 hours, or overnight.",
                              "Turn your oven onto warm and set aside a large baking sheet.",
@@ -19,7 +19,7 @@
             "id":    "T3rpo81",
             "title": "Pasta with olive oil and garlic",
             "author": "Diana",
-            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/test-image.jpeg",
+            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/pasta.jpeg",
             "description": "This pasta recipe is a simple Italian classic you'll find in trattorias all across Italy",
             "ingredients": ["1/2 cup extra virgin olive oil", "10 sliced garlic cloves", "1 tbsp red chilli flakes", "1/4 cup chopped parsley"],
             "instructions": [
@@ -28,6 +28,35 @@
                                 "Season with salt and pepper to taste. Finish pasta per chosen recipe."
                             ],
             "notes": ["Canned tomatoes - not all canned tomatoes are created equal. Good quality ones are naturally sweet with better tomato flavour, poor quality ones are sour and often unripe tomatoes. If needed, add sugar to sweeten tomatoes."]
+        },
+        {
+            "id":    "EsQo914",
+            "title": "Homemade pizza",
+            "author": "Henry",
+            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/pizza.jpeg",
+            "description": "This is a classic homemade pizza recipe. Make perfect pizza at home!",
+            "ingredients": ["1 cup warm water", "3 cups bread flour", "5 eggs", "2 tsp salt", "1 tsp sugar", "olive oil", "pepperoni", "mozzarella cheese"],
+            "instructions": [
+                             "Mix the dough ingredients together by hand or use a hand-held or stand mixer.",
+                             "Place dough into a greased mixing bowl, cover tightly, and set aside to rise for about 90 minutes or overnight in the refrigerator.",
+                             "Bake pizza at a very high temperature for only about 15 minutes."  
+                            ],
+            "notes": ["Working with pizza dough is easiest if it’s at room temperature. If the dough is frozen, defrost it in the refrigerator before bringing it to room temperature."]
+        },
+        {
+            "id":    "12LpOSq",
+            "title": "Ground beef tacos",
+            "author": "Yolanda",
+            "image": "https://recipes-web-app.s3.us-east-2.amazonaws.com/tacos.jpeg",
+            "description": "Our favorite seasoned ground beef for tacos is here! This is what I prep on super busy weeknights – and I even prep it ahead of time too. In 15 minutes this seasoned beef will be done and you’ll want to eat a taco or nacho every single night.",
+            "ingredients": ["1 pound ground beef", "1 tsp ground cumin", "1 tsp paprika", "1 tsp garlic powder", "1/2 tsp chili powder", "1 cup shredded cheddar cheese"],
+            "instructions": [
+                             "Cook the ground beef, cook it up until it’s completely browned. Drain the  grease. Then when we return to the heat to the stove lower the heat, add the  homemade taco seasoning and a small amount of tomato sauce.",
+                             "Allow the taco meat to simmer briefly in the sauce to give more flavor.",
+                             "Fry the corn tortillas in a small amount of oil in a medium size skillet. Once fried  on both sides, remove the tortillas and fold in half to form their shape.",
+                             "Fill the taco shells with the cooked beef and any toppings desired."  
+                            ],
+            "notes": ["Plan on using 1 lb of meat for 4 people. This will yield about 2-3 tablespoons of meat per taco."]
         }
     ]
 }
