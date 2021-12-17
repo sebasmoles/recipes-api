@@ -1,7 +1,7 @@
 # Recipes API
 
 - A simple mock API that retrieves recipes you can interact with.
-- It was built using [json-server](https://github.com/typicode/json-server) fake REST API, and deployed using [Heroku](https://www.heroku.com/platform).
+- It was built using [json-server](https://github.com/typicode/json-server) fake  REST API, and deployed using [Heroku](https://www.heroku.com/platform).
 
 ## Quick Guide
 
